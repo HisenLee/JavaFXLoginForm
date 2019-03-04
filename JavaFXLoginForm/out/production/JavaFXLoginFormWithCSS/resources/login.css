@@ -1,0 +1,16 @@
+.root {
+    -fx-background-color: aqua;
+}
+
+.label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #333333;
+}
+
+#Login-text {
+    -fx-font-size: 32px;
+    -fx-font-family: "Arial Black";
+    -fx-fill: #FF0000;
+    -fx-effect: innershadow( three-pass-box , rgba(0,0,0,0.7) , 6, 0.0 , 0 , 2 );
+}
